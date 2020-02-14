@@ -1,0 +1,6 @@
+asyncio-nats-client
+pandas
+requests
+urllib3
+websocket-client
+websockets
