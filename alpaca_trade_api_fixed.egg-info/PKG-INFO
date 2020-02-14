@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: alpaca-trade-api
+Name: alpaca-trade-api-fixed
 Version: 0.26
 Summary: Alpaca API python client
-Home-page: https://github.com/alpacahq/alpaca-trade-api-python
+Home-page: https://github.com/zlex7/alpaca-trade-api-fixed
 Author: Alpaca
-Author-email: oss@alpaca.markets
+Author-email: a.wlezien@gmail.com
 License: UNKNOWN
 Description: [![PyPI version](https://badge.fury.io/py/alpaca-trade-api.svg)](https://badge.fury.io/py/alpaca-trade-api)
         [![CircleCI](https://circleci.com/gh/alpacahq/alpaca-trade-api-python.svg?style=shield)](https://circleci.com/gh/alpacahq/alpaca-trade-api-python)
